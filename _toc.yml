@@ -1,12 +1,13 @@
 format: jb-book
 root: index.md
 parts:
-  - caption: 教研
+  - caption: 教学活动
     chapters:
       - file: preparing/README.md
-  - caption: 教学
-    chapters:
       - file: lecturing/README.md
       - file: exercising/README.md
         sections:
           - file: exercising/grading/README.md
+  - caption: 未分类
+    chapters:
+      - file: uncategorized/README.md
